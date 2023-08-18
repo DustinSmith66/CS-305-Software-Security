@@ -1,5 +1,6 @@
 # CS-305-
 Software Security
+
 Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address? The client was Artemis Financial and they want to create a new online prescence. Since they are dealing with money Artemis must be extra cautious and it causes for bigger threats to omerge by attacking the companies financials.
 
 What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing? I believe that when I found my clients vulernerabilites I explained them very well so that a person that is not in this field could understand what was going on. I also think that I did well with thinking of different ways of trying to better secure the vulnerabilities. It is important to make sure code is secure because it allows for less threats and vulnerabilities to happen which in the end allows for better running code. Software security adds protection from outside or inside threats that may occur and helps the company be able to defend itself from these threats.
